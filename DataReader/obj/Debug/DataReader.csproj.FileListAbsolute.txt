@@ -1,0 +1,5 @@
+E:\Code\C#\HomeworkTest\DataReader\bin\Debug\DataReader.dll
+E:\Code\C#\HomeworkTest\DataReader\bin\Debug\DataReader.pdb
+E:\Code\C#\HomeworkTest\DataReader\obj\Debug\DataReader.csprojResolveAssemblyReference.cache
+E:\Code\C#\HomeworkTest\DataReader\obj\Debug\DataReader.dll
+E:\Code\C#\HomeworkTest\DataReader\obj\Debug\DataReader.pdb

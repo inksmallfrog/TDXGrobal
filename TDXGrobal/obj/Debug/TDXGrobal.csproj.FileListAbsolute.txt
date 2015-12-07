@@ -1,0 +1,5 @@
+E:\Code\C#\HomeworkTest\TDXGrobal\bin\Debug\TDXGrobal.dll
+E:\Code\C#\HomeworkTest\TDXGrobal\bin\Debug\TDXGrobal.pdb
+E:\Code\C#\HomeworkTest\TDXGrobal\obj\Debug\TDXGrobal.csprojResolveAssemblyReference.cache
+E:\Code\C#\HomeworkTest\TDXGrobal\obj\Debug\TDXGrobal.dll
+E:\Code\C#\HomeworkTest\TDXGrobal\obj\Debug\TDXGrobal.pdb

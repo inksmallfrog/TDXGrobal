@@ -1,0 +1,13 @@
+E:\Code\C#\HomeworkTest\HomeworkTest\bin\Debug\HomeworkTest.exe.config
+E:\Code\C#\HomeworkTest\HomeworkTest\bin\Debug\HomeworkTest.exe
+E:\Code\C#\HomeworkTest\HomeworkTest\bin\Debug\HomeworkTest.pdb
+E:\Code\C#\HomeworkTest\HomeworkTest\bin\Debug\DataReader.dll
+E:\Code\C#\HomeworkTest\HomeworkTest\bin\Debug\TDXGrobal.dll
+E:\Code\C#\HomeworkTest\HomeworkTest\bin\Debug\DataReader.pdb
+E:\Code\C#\HomeworkTest\HomeworkTest\bin\Debug\TDXGrobal.pdb
+E:\Code\C#\HomeworkTest\HomeworkTest\obj\Debug\HomeworkTest.csprojResolveAssemblyReference.cache
+E:\Code\C#\HomeworkTest\HomeworkTest\obj\Debug\HomeworkTest.Form1.resources
+E:\Code\C#\HomeworkTest\HomeworkTest\obj\Debug\HomeworkTest.Properties.Resources.resources
+E:\Code\C#\HomeworkTest\HomeworkTest\obj\Debug\HomeworkTest.csproj.GenerateResource.Cache
+E:\Code\C#\HomeworkTest\HomeworkTest\obj\Debug\HomeworkTest.exe
+E:\Code\C#\HomeworkTest\HomeworkTest\obj\Debug\HomeworkTest.pdb

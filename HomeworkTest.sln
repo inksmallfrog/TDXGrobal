@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HomeworkTest", "HomeworkTest\HomeworkTest.csproj", "{D57A5A4C-C585-4A77-9E76-6191F6CDC5B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDXGrobal", "TDXGrobal\TDXGrobal.csproj", "{1057608C-C5EA-4D9E-BE88-11A8B5FF851D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataReader", "DataReader\DataReader.csproj", "{694A5A97-E0FD-41E2-8F38-F25F574D9F5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D57A5A4C-C585-4A77-9E76-6191F6CDC5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57A5A4C-C585-4A77-9E76-6191F6CDC5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57A5A4C-C585-4A77-9E76-6191F6CDC5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57A5A4C-C585-4A77-9E76-6191F6CDC5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1057608C-C5EA-4D9E-BE88-11A8B5FF851D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1057608C-C5EA-4D9E-BE88-11A8B5FF851D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1057608C-C5EA-4D9E-BE88-11A8B5FF851D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1057608C-C5EA-4D9E-BE88-11A8B5FF851D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{694A5A97-E0FD-41E2-8F38-F25F574D9F5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{694A5A97-E0FD-41E2-8F38-F25F574D9F5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{694A5A97-E0FD-41E2-8F38-F25F574D9F5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{694A5A97-E0FD-41E2-8F38-F25F574D9F5C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
